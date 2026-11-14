@@ -74,6 +74,32 @@ Prefer to just steer? Switch on **Auto-Drive** in the main menu and the car acce
 
 ---
 
+## Gameplay
+
+<p align="center">
+  <img src="media/gameplay/gameplay-1.jpg" width="100%" alt="High-speed run through downtown">
+</p>
+<p align="center">
+  <img src="media/gameplay/gameplay-2.jpg" width="49%" alt="Nitro past an explosion">
+  <img src="media/gameplay/gameplay-3.jpg" width="49%" alt="Cop in pursuit">
+</p>
+<p align="center">
+  <img src="media/gameplay/screenshot-2.jpg" width="32%" alt="Gameplay">
+  <img src="media/gameplay/screenshot-3.jpg" width="32%" alt="Gameplay">
+  <img src="media/gameplay/screenshot-4.jpg" width="32%" alt="Gameplay">
+</p>
+
+### Gameplay clips
+
+Raw gameplay footage, the takes the trailers were cut from:
+
+| Clip | Landscape | Portrait |
+|---|---|---|
+| City chase | [city-landscape.mp4](media/clips/city-landscape.mp4) | [city-portrait.mp4](media/clips/city-portrait.mp4) |
+| Arena | [arena-landscape.mp4](media/clips/arena-landscape.mp4) | [arena-portrait.mp4](media/clips/arena-portrait.mp4) |
+
+---
+
 ## Images
 
 <p align="center">
@@ -88,6 +114,16 @@ Prefer to just steer? Switch on **Auto-Drive** in the main menu and the car acce
   <img src="media/images/cover-800x800.jpg" width="49%" alt="Smash Rush cover (square)">
   <img src="media/images/ingame-800x800.png" width="49%" alt="Smash Rush in game (square)">
 </p>
+
+---
+
+## Press kit
+
+Every cover and thumbnail used on the game portals is in [`media/`](media):
+
+- [`media/images/`](media/images): key art and in-game covers (1920×1080, 1080×1920, 800×1200, 800×800)
+- [`media/press-kit/`](media/press-kit): portal thumbnails (1280×720, 1280×550, 512×512, 512×384, 200×120, 630×500)
+- Trailers: [landscape](media/trailer-landscape-1920x1080.mp4) and [portrait](media/trailer-portrait-1080x1620.mp4)
 
 ---
 
