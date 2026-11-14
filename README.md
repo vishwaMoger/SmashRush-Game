@@ -13,10 +13,16 @@
   <a href="https://playgama.ai/play/52uzl3cmybfyg5">
     <img src="https://img.shields.io/badge/%E2%96%B6%20PLAY%20NOW-Free%20in%20your%20browser-ff2e63?style=for-the-badge" alt="Play Smash Rush now" height="48">
   </a>
+  &nbsp;
+  <a href="https://bluelolipop1.itch.io/smash-rush">
+    <img src="https://img.shields.io/badge/itch.io-Play%20on%20itch-fa5c5c?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play Smash Rush on itch.io" height="48">
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://playgama.ai/play/52uzl3cmybfyg5"><b>playgama.ai/play/52uzl3cmybfyg5</b></a><br>
+  <a href="https://playgama.ai/play/52uzl3cmybfyg5"><b>playgama.ai/play/52uzl3cmybfyg5</b></a>
+  &nbsp;•&nbsp;
+  <a href="https://bluelolipop1.itch.io/smash-rush"><b>bluelolipop1.itch.io/smash-rush</b></a><br>
   <sub>Free, no download, no sign-up. Best on a PC with a keyboard.</sub>
 </p>
 
@@ -140,7 +146,9 @@ Every cover and thumbnail used on the game portals is in [`media/`](media):
 ---
 
 <p align="center">
-  <a href="https://playgama.ai/play/52uzl3cmybfyg5"><b>▶ Play Smash Rush</b></a>
+  <a href="https://playgama.ai/play/52uzl3cmybfyg5"><b>▶ Play Smash Rush on Playgama</b></a>
+  &nbsp;•&nbsp;
+  <a href="https://bluelolipop1.itch.io/smash-rush"><b>▶ Play on itch.io</b></a>
   <br><br>
   <sub>© Smash Rush. All rights reserved. This repository is the game's public page; the source code is private.</sub>
 </p>
